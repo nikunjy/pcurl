@@ -1,5 +1,5 @@
 {
-  "name": "pcurl",
+  "name": "gcurl",
   "version": "1.0.0",
   "description": "proto curl utility",
   "main": "index.js",
