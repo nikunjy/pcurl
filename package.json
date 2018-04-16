@@ -1,0 +1,18 @@
+{
+  "name": "pcurl",
+  "version": "1.0.0",
+  "description": "proto curl utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "author": "Nikunj Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "grpc": "^1.10.1",
+    "protobufjs": "^6.8.6"
+  }
+}
